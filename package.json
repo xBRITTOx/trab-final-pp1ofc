@@ -1,0 +1,25 @@
+{
+  "name": "trab-final-pp1ofc",
+  "version": "1.0.0",
+  "description": "trabalho final",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xBRITTOx/trab-final-pp1ofc.git"
+  },
+  "author": "Cristiano Ferreira da Silva Brito",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xBRITTOx/trab-final-pp1ofc/issues"
+  },
+  "homepage": "https://github.com/xBRITTOx/trab-final-pp1ofc#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0"
+  }
+}
